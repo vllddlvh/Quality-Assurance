@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="Y_C4t2dEAGYh2nkGOW2S">
+    <mxGraphModel dx="805" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="49u8NVX33vUcC-u-xZKZ-8" edge="1" parent="1" source="49u8NVX33vUcC-u-xZKZ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="49u8NVX33vUcC-u-xZKZ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="49u8NVX33vUcC-u-xZKZ-10" edge="1" parent="1" source="49u8NVX33vUcC-u-xZKZ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="49u8NVX33vUcC-u-xZKZ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="49u8NVX33vUcC-u-xZKZ-12" edge="1" parent="1" source="49u8NVX33vUcC-u-xZKZ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="49u8NVX33vUcC-u-xZKZ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="49u8NVX33vUcC-u-xZKZ-14" edge="1" parent="1" source="49u8NVX33vUcC-u-xZKZ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="49u8NVX33vUcC-u-xZKZ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="49u8NVX33vUcC-u-xZKZ-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Module" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="49u8NVX33vUcC-u-xZKZ-7" parent="1" style="whiteSpace=wrap;html=1;" value="IoC Container" vertex="1">
+          <mxGeometry height="60" width="120" x="274" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="49u8NVX33vUcC-u-xZKZ-9" parent="1" style="whiteSpace=wrap;html=1;" value="DI" vertex="1">
+          <mxGeometry height="60" width="120" x="274" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="49u8NVX33vUcC-u-xZKZ-11" parent="1" style="whiteSpace=wrap;html=1;" value="AOP / Dynamic Proxy" vertex="1">
+          <mxGeometry height="60" width="120" x="274" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="49u8NVX33vUcC-u-xZKZ-13" parent="1" style="whiteSpace=wrap;html=1;" value="Web Layer (MVC)" vertex="1">
+          <mxGeometry height="60" width="120" x="274" y="400" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
